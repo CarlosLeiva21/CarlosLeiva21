@@ -10,7 +10,7 @@ I am a dedicated and disciplined software engineering student with a strong pass
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=CarlosLeiva21&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=CarlosLeiva21&theme=react&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosLeiva2107&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosLeiva21&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=CarlosLeiva21&theme=algolia&no-frame=false&no-bg=true&margin-w=4)
